@@ -1,83 +1,68 @@
-# Controls
+# Controls <br />
+Load png or jpg <br />
+!Img1+url <br />
+!Img2+url <br />
+Example !Img1+http://www.apple.com/apple.png <br />
+Load text <br />
+!Txt1+text <br />
+!Txt2+text <br />
+Example !Txt1+This is the text that shows up <br />
+Load voice mp3 <br />
+!Vox+url <br />
+Example !Vox+http://www.sounds.com/cow.mp3 <br />
+Load music mp3 <br />
+!Bgm+url <br />
+Example !Bgm+http://www.sounds.com/cow.mp3 <br />
+Stop voice <br />
+!VStop <br />
+Next Voice clip <br />
+!NextV <br />
+Audio looping <br />
+!LoopOn <br />
+!LoopOff <br />
+Other <br />
+!CamEye <br />
+Cut to cam <br />
+!1 - !9 <br />
+Cam Moves <br />
+!CUp <br />
+!CDown <br />
+!CRight <br />
+!CLeft <br />
+!CDuR <br />
+!CDuL <br />
+Cam Zoom <br />
+!+ <br />
+!- <br />
+Cam Look At <br />
+!Face <br />
+!Body <br />
+!RHand <br />
+!LHand <br />
+Light Color <br />
+!Col <br />
+Actor Animation <br />
+!A - !Z <br />
+Change animation set <br />
+!Anim <br />
+Actor moves <br />
+!Jump <br />
+!Fwd <br />
+!Bwd <br />
+!Left <br />
+!Right <br />
+!Look <br />
+Actor Fx <br />
+!Gas <br />
+!Burp <br />
+!Puke <br />
+!Sweat <br />
+!Bleed <br />
+!Fall <br />
+!Spin <br />
+!Spit <br />
 
-Load png or jpg /n
-!Img1+url /n
-!Img2+url /n
-Example !Img1+http://www.apple.com/apple.png 
 
-Load text 
-!Txt1+text 
-!Txt2+text 
-Example !Txt1+This is the text that shows up 
-
-Load voice mp3 
-!Vox+url 
-Example !Vox+http://www.sounds.com/cow.mp3 
-
-Load music mp3 
-!Bgm+url 
-Example !Bgm+http://www.sounds.com/cow.mp3 
-
-Stop voice 
-!VStop 
-
-Next Voice clip 
-!NextV 
-
-Audio looping 
-!LoopOn 
-!LoopOff 
-
-Other?
-!CamEye 
-
-Cut to cam 
-!1 - !9 
-
-Cam Moves 
-!CUp 
-!CDown 
-!CRight 
-!CLeft 
-!CDuR 
-!CDuL 
-
-Cam Zoom 
-!+ 
-!- 
-
-Cam Look At 
-!Face 
-!Body 
-!RHand 
-!LHand 
-
-Light Color 
-!Col 
-
-Actor Animation 
-!A - !Z 
-
-Change animation set 
-!Anim 
-
-Actor moves 
-!Jump 
-!Fwd 
-!Bwd 
-!Left 
-!Right 
-!Look 
-
-Actor Fx 
-!Gas 
-!Burp 
-!Puke 
-!Sweat 
-!Bleed 
-!Fall 
-!Spin 
-!Spit 
 
 
 
