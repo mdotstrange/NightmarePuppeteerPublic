@@ -1,8 +1,8 @@
 # Controls
 
-Load png or jpg 
-!Img1+url 
-!Img2+url 
+Load png or jpg /n
+!Img1+url /n
+!Img2+url /n
 Example !Img1+http://www.apple.com/apple.png 
 
 Load text 
