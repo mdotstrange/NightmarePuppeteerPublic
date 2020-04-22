@@ -14,7 +14,7 @@ Load music mp3 <br />
 !Bgm+url <br />
 Example !Bgm+http://www.sounds.com/cow.mp3 <br /><br />
 Stop voice <br />
-!VStop <br />
+!VStop <br /><br />
 Next Voice clip <br />
 !NextV <br /><br />
 Audio looping <br />
