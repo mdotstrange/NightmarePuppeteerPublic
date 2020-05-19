@@ -1,4 +1,4 @@
-# Controls <br /><br />
+# Twitch Controls <br /><br />
 Load png or jpg <br />
 !Img1+url <br />
 !Img2+url <br />
