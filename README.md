@@ -5,7 +5,7 @@
 
 Here are Nightmare Puppeteers [controls](https://github.com/mdotstrange/NightmarePuppeteerPublic/blob/master/SceneControls.md)
 
-Here are Nightmare Puppeteers Twitch chat [commands](https://github.com/mdotstrange/NightmarePuppeteerPublic/blob/master/Controls.md)
+Here are Nightmare Puppeteers Twitch chat [commands](https://github.com/mdotstrange/NightmarePuppeteerPublic/blob/master/TwitchControls.md)
 
 Here is Nightmare Puppeteers [User Manual](https://github.com/mdotstrange/NightmarePuppeteerPublic/blob/master/NightmarePuppeteerUserManual.pdf)
 
