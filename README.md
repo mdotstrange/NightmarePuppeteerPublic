@@ -9,6 +9,7 @@ Here are Nightmare Puppeteers Twitch chat [commands](https://github.com/mdotstra
 
 Here is Nightmare Puppeteers [User Manual](https://github.com/mdotstrange/NightmarePuppeteerPublic/blob/master/NightmarePuppeteerUserManual.pdf)
 
+Get Nightmare Puppeteer on [Steam](https://store.steampowered.com/app/1355310/Nightmare_Puppeteer/)
 
 If you find any bugs/errors or have feature requests please post them in [Issues](https://github.com/mdotstrange/NightmarePuppeteerPublic/issues)
 
