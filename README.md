@@ -1,4 +1,7 @@
-**HELLO**
+##HELLO Nightmare Puppetarians!##
+
+![NP](https://github.com/mdotstrange/NightmarePuppeteerPublic/blob/master/TVMode.png)
+
 
 Here are Nightmare Puppeteers [controls](https://github.com/mdotstrange/NightmarePuppeteerPublic/blob/master/SceneControls.md)
 
