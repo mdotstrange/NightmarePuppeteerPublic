@@ -1,4 +1,4 @@
-HELLO Nightmare Puppeteerians!<h2>
+<h2>HELLO Nightmare Puppeteerians!
 
 ![NP](https://github.com/mdotstrange/NightmarePuppeteerPublic/blob/master/TVMode.png)
 
