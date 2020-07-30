@@ -5,7 +5,9 @@
 * Camera movement Z = ALT + +/- or MouseWheel
 * Reset camera position/rotation =  SHIFT + ALT + R
 * Camera Look At clicked point = Alt + LeftClick
-* Set Depth Of Field blur focal point = ALT + RightMouseClick
+* Camera Smooth Zoom in = ALT + Right Click
+* Camera Smooth Zoon out = ALT + Middle Mouse Click
+* Set Depth Of Field blur focal point = SHIFT + RightMouseClick
 * Camera speed multiplier = CTRL + ALT + MouseWheel
 * Reset cam speed multiplier = CTRL + ALT + MiddleMouseClick or A
 * Toggle eye camera active(if one or more in scene) = BACKQUOTE
