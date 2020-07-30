@@ -29,7 +29,7 @@
 * !LoopOff <br /><br />
 
 **On Sale Now** <br />
-* Make Special cam active(if available) = !CamEye <br /><br />
+* Make Special cam active(if available) = !CamEye
 * Toggle actor to control(If 2 are in scene) = !Tggl
 * Toggle Buddy actor seated(If seat available) = !BdSit
 * Actor Voice Pitch Higher = !Pitch+
