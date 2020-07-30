@@ -15,7 +15,7 @@ If you find any bugs/errors or have feature requests please post them in [Issues
 
 **About importing and using your own .fbx prop models**
 
-Download and use the Example Prop Fbx file here as a reference. Take note of its size and orientation.
+Download and use the Example Prop Fbx file [here](https://github.com/mdotstrange/NightmarePuppeteerPublic/blob/master/Files/ExampleFbxFileImport.fbx) as a reference. Take note of its size and orientation.
 Your file should be in the same size range. The +Z axis is the props forward facing direction.
 
 * Use Fbx 2013 or older
