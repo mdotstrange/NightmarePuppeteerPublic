@@ -7,7 +7,7 @@ Here are Nightmare Puppeteers [controls](https://github.com/mdotstrange/Nightmar
 
 Here are Nightmare Puppeteers Twitch chat [commands](https://github.com/mdotstrange/NightmarePuppeteerPublic/blob/master/TwitchControls.md)
 
-Here is Nightmare Puppeteers [User Manual](https://github.com/mdotstrange/NightmarePuppeteerPublic/blob/master/Files/NightmarePuppeteerUserManual.pdf)
+Here is Nightmare Puppeteers [User Manual](https://github.com/mdotstrange/NightmarePuppeteerPublic/releases/download/manual/NightmarePuppeteerUserManual.pdf)
 
 Get Nightmare Puppeteer on [Steam](https://store.steampowered.com/app/1355310/Nightmare_Puppeteer/)
 
