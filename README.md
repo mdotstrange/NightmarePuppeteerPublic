@@ -22,6 +22,7 @@ Your file should be in the same size range. The +Z axis is the props forward fac
 * Textures are supported
 * P/S/R animation supported
 * Skinned meshes/deformation is not supported (this means you can't use character models that deform etc)
+* Upon import Nightmare Puppeteer will add a Collider to your Model and make it available as an actor prop AND inside the Lousy Level Editor.
 
 **Prop orientation reference images**
 
