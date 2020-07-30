@@ -1,6 +1,6 @@
 # Twitch Controls <br /><br />
 
-**Load png or jpg** <br />
+**Load .png, .jpg, .jpeg** <br />
 * !Img1+url <br />
 * !Img2+url <br />
 * Example !Img1+http://www.apple.com/apple.png <br /><br />
@@ -28,13 +28,22 @@
 * !LoopOn <br />
 * !LoopOff <br /><br />
 
-**Other** <br />
-* !CamEye <br /><br />
+**On Sale Now** <br />
+* Make Special cam active(if available) = !CamEye <br /><br />
+* Toggle actor to control(If 2 are in scene) = !Tggl
+* Toggle Buddy actor seated(If seat available) = !BdSit
+* Actor Voice Pitch Higher = !Pitch+
+* Actor Voice Pitch Higher = !Pitch-
+* Reset Actor Voice Pitch = !Pitch1
+* Next Sound font(If midi is playing) = !Sf+
+* Speed up time = !Time+
+* Slow down time = !Time-
+* Reset time speed = !Time1
 
-**Cut to cam** <br />
+**Cut to camera number** <br />
 * !1 - !9 <br /><br />
 
-**Cam Moves** <br />
+**Camera Moves** <br />
 * !CUp <br />
 * !CDown <br />
 * !CRight <br />
@@ -42,17 +51,17 @@
 * !CDuR <br />
 * !CDuL <br /><br />
 
-**Cam Zoom** <br />
+**Camera Zoom** <br />
 * !+ <br />
 * !- <br /><br />
 
-**Cam Look At** <br />
+**Camera Look At** <br />
 * !Face <br />
 * !Body <br />
 * !RHand <br />
 * !LHand <br /><br />
 
-**Light Color** <br />
+**Next Light Color** <br />
 * !Col <br /><br />
 
 **Crazy controls**
@@ -65,15 +74,15 @@
 * Randomize body flavor = !RBF
 
 **Fx Controls**
-Load Fx Flavors 1-3 = !Fx1, !Fx2, !Fx3
-Reset Fx Flavors = !IFx
-Load Color Flavors 1-3 = !Cf1, !Cf2, !Cf3
-Reset Color Flavor = !ICf
+* Load Fx Flavors 1-3 = !Fx1, !Fx2, !Fx3
+* Reset Fx Flavors = !IFx
+* Load Color Flavors 1-3 = !Cf1, !Cf2, !Cf3
+* Reset Color Flavor = !ICf
 
-**Actor Animation** <br />
+**Play Actor Animation** <br />
 * !A - !Z <br /><br />
 
-**Change animation set** <br />
+**Change actor animation set** <br />
 * !Anim <br /><br />
 
 **Actor moves** <br />
