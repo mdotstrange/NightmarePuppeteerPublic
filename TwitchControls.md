@@ -55,6 +55,21 @@
 **Light Color** <br />
 * !Col <br /><br />
 
+**Crazy controls**
+* Next actor head = !Hed
+* Random actor head = !RHed
+* Next actor body = !NxtBdy
+* Random actor body = !Rbdy
+* Randomize all props =  !RPrp
+* Random head flavor = !RHF
+* Randomize body flavor = !RBF
+
+**Fx Controls**
+Load Fx Flavors 1-3 = !Fx1, !Fx2, !Fx3
+Reset Fx Flavors = !IFx
+Load Color Flavors 1-3 = !Cf1, !Cf2, !Cf3
+Reset Color Flavor = !ICf
+
 **Actor Animation** <br />
 * !A - !Z <br /><br />
 
