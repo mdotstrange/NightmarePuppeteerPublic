@@ -3,7 +3,7 @@
 * Zoom camera in/out = Mousewheel OR -/= or Numpad +/-
 * Camera movement XY = ALT + Arrow keys
 * Camera movement Z = ALT + +/- or MouseWheel
-* Reset camera position/rotation =  SHIFT + ALT + R
+* Reset camera position/rotation =  SHIFT + ALT + Q
 * Camera Look At clicked point = Alt + LeftClick
 * Camera Smooth Zoom in = ALT + Right Click
 * Camera Smooth Zoon out = ALT + Middle Mouse Click
@@ -47,7 +47,7 @@
 
 
 **ACTOR CONTROLS**
-* Reset actor = SHIFT + R
+* Reset actor = SHIFT + Z
 * Seat/unseat main actor = Click seat object
 * Seat/unseat buddy actor = ALT + S
 * Toggle actor to control(If 2 are in scene) = F9
@@ -59,6 +59,8 @@
 * Random head shader = SHIFT + F6
 * Randomize body shader = SHIFT + F7
 * Look at Camera = SHIFT + LeftClick
+* Look at clicked point = CTRL + Left Click in scene
+* Reset Look at cicked point = SHIFT + CTRL + Q
 
 **REMIX CONTROLS**
 
