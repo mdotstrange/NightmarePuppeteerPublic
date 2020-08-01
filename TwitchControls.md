@@ -25,7 +25,7 @@
 
 **Load green screen video .mp4 (only works in scenes that use green screen)** 
 * !Mp4Green+url
-* Working Example !Mp4Green+https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/Doit.mp4
+* Working Example !Mp4G+https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/Doit.mp4
 
 **Load Midi .mid file**
 * !Mid+url
@@ -34,7 +34,8 @@
 **Load .fbx file (15 megabyte limit, same file size/specs as custom fbx props see [here](https://github.com/mdotstrange/NightmarePuppeteerPublic))**
 * !Fbx+url
 * Working Example !Fbx+https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/ExampleFbxFileImport.fbx
-* **BONUS!!!!** !FbxOnHead+url
+* **BONUS SHOE ON HEAD!!!!** !FbxH+url
+* **BONUS MUH DICK!!!!** !FbxD+url
 
 **Stop voice** <br />
 * !VStop <br /><br />
