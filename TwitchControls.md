@@ -34,6 +34,7 @@
 **Load .fbx file (15 megabyte limit, same file size/specs as custom fbx props see [here](https://github.com/mdotstrange/NightmarePuppeteerPublic))**
 * !Fbx+url
 * Working Example !Fbx+https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/ExampleFbxFileImport.fbx
+* **BONUS!!!!** !FbxOnHead+url
 
 **Stop voice** <br />
 * !VStop <br /><br />
