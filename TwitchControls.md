@@ -17,7 +17,7 @@
 
 **Load music mp3** <br />
 * !Bgm+url <br />
-* Example !Bgm+http://www.sounds.com/cow.mp3 <br /><br />
+* Working Example !Bgm+https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/Freedumb_Instru.mp3
 
 **Load video .mp4 (only works in scenes that include video players)** 
 * !Mp4+url
