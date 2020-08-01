@@ -121,3 +121,9 @@
 * !Fall <br />
 * !Spin <br />
 * !Spit <br />
+
+**H4KLR system controls (Throw stuff into the scene)**
+* Potato = !Hpo
+* Mudball = !Hmd
+* Tomato = !Hto
+* More soon!
