@@ -1,22 +1,35 @@
 # Twitch Controls <br /><br />
 
-**Load .png, .jpg, .jpeg** <br />
+**Load .png, .jpg, .jpeg (only works in scenes that uses images)** <br />
 * !Img1+url <br />
 * !Img2+url <br />
-* Example !Img1+http://www.apple.com/apple.png <br /><br />
+* Working Example !Img1+https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/MadeWithNP_0.png
+* Working Example !Img2+https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/MadeWithNP1.png
 
-**Load text** <br />
+**Load text (only works in scenes where text overlay is present)** <br />
 * !Txt1+text <br />
 * !Txt2+text <br />
-* Example !Txt1+This is the text that shows up <br /><br />
+* Working Example !Txt1+Hello Nightmare World!
 
 **Load voice mp3** <br />
 * !Vox+url <br />
-* Example !Vox+http://www.sounds.com/cow.mp3 <br /><br />
+* Working Example !Vox+https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/LilBootchyTalking.mp3
 
 **Load music mp3** <br />
 * !Bgm+url <br />
 * Example !Bgm+http://www.sounds.com/cow.mp3 <br /><br />
+
+**Load video .mp4 (only works in scenes that include video players)** 
+* !Mp4+url
+* Working Example !Mp4+https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/SampleVideo_1280x720.mp4
+
+**Load green screen video .mp4 (only works in scenes that use green screen)** 
+* !Mp4Green+url
+* Working Example !Mp4Green+https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/Doit.mp4
+
+**Load Midi .mid file**
+* !Mid+url
+* Working Example !Mid+https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/BallTongue.mid
 
 **Stop voice** <br />
 * !VStop <br /><br />
