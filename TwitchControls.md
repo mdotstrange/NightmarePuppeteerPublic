@@ -122,8 +122,19 @@
 * !Spin <br />
 * !Spit <br />
 
-**H4KLR system controls (Throw stuff into the scene)**
-* Potato = !Hpo
-* Mudball = !Hmd
+**H4KLR system controls (Throw stuff into the scene during Twitch mode)**
+
+* **This is disgusting**
 * Tomato = !Hto
-* More soon!
+* Mudball = !Hmd
+
+* **I Like it!**
+* Likes = !Lik
+* Heart = !Hrt
+
+* **I feel nothing**
+* Potato = !Hpo
+
+* **I feel funny**
+* Floppy = !Hdo
+* Eggplant = !Heg
