@@ -122,7 +122,7 @@
 * !Spin <br />
 * !Spit <br />
 
-**H4KLR 3d Love/Hate/Potato system controls (Throw stuff into the scene during Twitch mode)**
+**H4KLR 3d Feedback system controls (Throw stuff into the scene during Twitch mode)**
 
 * **This is disgusting**
 * Tomato = !Hto
