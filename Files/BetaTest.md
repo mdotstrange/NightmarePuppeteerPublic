@@ -1,3 +1,4 @@
+![Nplogo](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/NpMover.gif)
 Hello and thank you for being a Nightmare Puppeteer Beta tester!
 
 **Instructions**
