@@ -14,6 +14,7 @@ Get Nightmare Puppeteer on [Steam](https://store.steampowered.com/app/1355310/Ni
 If you find any bugs/errors or have feature requests please post them in [Issues](https://github.com/mdotstrange/NightmarePuppeteerPublic/issues)
 
 **Mask Template images**
+
 Nightmare Puppeteer includes three heads you can load your own images on
 Here are the template image files for each, modify them and load them back on
 
