@@ -13,6 +13,22 @@ Get Nightmare Puppeteer on [Steam](https://store.steampowered.com/app/1355310/Ni
 
 If you find any bugs/errors or have feature requests please post them in [Issues](https://github.com/mdotstrange/NightmarePuppeteerPublic/issues)
 
+**Mask Template images**
+Nightmare Puppeteer includes three heads you can load your own images on
+Here are the template image files for each, modify them and load them back on
+
+* ![Animeface](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/AnimeFace.png)
+* [Anime face template image](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/AnimeFace_Template.png)
+
+* ![FlatFace](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/FlatFace.png)
+* [Flat face template image](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/FlatFace_Template.png)
+
+* ![3dface](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/3dface.png)
+* [3d face template image](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/3dFace_Template.png)
+
+
+
+
 **Nightmare Puppeteer "Made with" images + Press logo's/images etc**
 * [Nightmare Puppeteer Logo](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/Nplogo.png)
 * [Drawn Nightmare Puppeteer Logo by Kool Skull](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/NpDrawn.png)
