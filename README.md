@@ -17,6 +17,7 @@ If you find any bugs/errors or have feature requests please post them in [Issues
 
 * Nightmare Puppeteer includes three heads you can load your own images onto
 * Here are the template image files for each, modify them and load them back on
+* They all do lipsync so make sure and line the mouths up the way you want
 
 * ![Animeface](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/AnimeFace.png)
 * [Anime face template image](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/AnimeFace_Template.png)
