@@ -15,8 +15,8 @@ If you find any bugs/errors or have feature requests please post them in [Issues
 
 **Mask Template images**
 
-Nightmare Puppeteer includes three heads you can load your own images on
-Here are the template image files for each, modify them and load them back on
+* Nightmare Puppeteer includes three heads you can load your own images onto
+* Here are the template image files for each, modify them and load them back on
 
 * ![Animeface](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/AnimeFace.png)
 * [Anime face template image](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/AnimeFace_Template.png)
@@ -27,7 +27,12 @@ Here are the template image files for each, modify them and load them back on
 * ![3dface](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/3dface.png)
 * [3d face template image](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/3dFace_Template.png)
 
+**Skinmin's template image**
 
+* Skinmin is a body supplied by Spooktergeist, use it to load new skins onto
+
+* ![Skinmin](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/SkiNMin.png)
+* [Skinmin template image](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/SkinmenTemplate.png)
 
 
 **Nightmare Puppeteer "Made with" images + Press logo's/images etc**
