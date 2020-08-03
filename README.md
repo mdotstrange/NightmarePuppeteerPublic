@@ -38,6 +38,7 @@ Your file should be in the same size range. The +Z axis is the props forward fac
 * P/S/R animation supported
 * Skinned meshes/deformation is not supported (this means you can't use character models that deform etc)
 * Upon import Nightmare Puppeteer will add a Collider to your Model and make it available as an actor prop AND inside the Lousy Level Editor.
+* **If you'd like to know more about the Fbx support NP uses the Unity asset "Trilib" 1.x, read about its limitations etc for more info**
 
 **Prop orientation reference images**
 
