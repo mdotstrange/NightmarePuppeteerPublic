@@ -9,7 +9,7 @@
 
 **Bugs**
 * For any bugs/issues you have please create a Github "Issue" for it [here](https://github.com/mdotstrange/NightmarePuppeteerPublic/issues)(Requires free Github Account)
-* If you get a red error notification on the bottom left of the screen, please create an issue for it and attached your "output_log.txt" file found at C/Users/UserName/AppData/LocalLow/ImaginationRabbit/NightmarePuppeteer/ 
+* If you get a red error notification on the bottom left of the screen, please create an [issue](https://github.com/mdotstrange/NightmarePuppeteerPublic/issues) for it and attached your "output_log.txt" file found at **C/Users/UserName/AppData/LocalLow/ImaginationRabbit/NightmarePuppeteer/output_log.txt** 
 
 **How to contact me**
 * mdotstrange@gmail.com
