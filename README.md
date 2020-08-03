@@ -15,6 +15,7 @@ If you find any bugs/errors or have feature requests please post them in [Issues
 
 **Nightmare Puppeteer "Made with" images + Press logo's/images etc**
 * [Nightmare Puppeteer Logo](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/Nplogo.png)
+* [Drawn Nightmare Puppeteer Logo by Kool Skull](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/NpDrawn.png)
 * [Nightmare Puppeteer logo animated gif](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/NpMover.gif)
 * [Box Art by Kool Skull](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/Cover1.png)
 * [Box Art 1](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/Cover2.png)
