@@ -14,17 +14,17 @@ Get Nightmare Puppeteer on [Steam](https://store.steampowered.com/app/1355310/Ni
 If you find any bugs/errors or have feature requests please post them in [Issues](https://github.com/mdotstrange/NightmarePuppeteerPublic/issues)
 
 **Nightmare Puppeteer "Made with" images + Press logo's/images etc**
-[Nightmare Puppeteer Logo](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/Nplogo.png)
-[Nightmare Puppeteer logo animated gif](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/NpMover.gif)
-[Box Art by Kool Skull](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/Cover1.png)
-[Box Art 1](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/Cover2.png)
-[Box Art 2](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/Cover2.png)
-[Box Art 3 by Kool Skull](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/NpBoxArt.png)
-[HKLR Visual feedback system Logo](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/Hklr.png)
-[Lights Camera Nightmares image](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/LightsCameraNightmares.png)
-[Made with Nightmare Puppeteer Image 1](https://github.com/mdotstrange/NightmarePuppeteerPublic/blob/master/Files/MadeWithNP_0.png)
-[Made With Nightmare Puppeteer Image 2](https://github.com/mdotstrange/NightmarePuppeteerPublic/blob/master/Files/MadeWithNP1.png)
-[Imagination Rabbit Logo](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/IRabbit.png)
+* [Nightmare Puppeteer Logo](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/Nplogo.png)
+* [Nightmare Puppeteer logo animated gif](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/NpMover.gif)
+* [Box Art by Kool Skull](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/Cover1.png)
+* [Box Art 1](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/Cover2.png)
+* [Box Art 2](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/Cover2.png)
+* [Box Art 3 by Kool Skull](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/NpBoxArt.png)
+* [HKLR Visual feedback system Logo](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/Hklr.png)
+* [Lights Camera Nightmares image](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/LightsCameraNightmares.png)
+* [Made with Nightmare Puppeteer Image 1](https://github.com/mdotstrange/NightmarePuppeteerPublic/blob/master/Files/MadeWithNP_0.png)
+* [Made With Nightmare Puppeteer Image 2](https://github.com/mdotstrange/NightmarePuppeteerPublic/blob/master/Files/MadeWithNP1.png)
+* [Imagination Rabbit Logo](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/IRabbit.png)
 
 
 **About importing and using your own .fbx prop models**
