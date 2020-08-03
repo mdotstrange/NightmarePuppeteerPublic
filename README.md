@@ -24,6 +24,7 @@ If you find any bugs/errors or have feature requests please post them in [Issues
 * [Lights Camera Nightmares image](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/LightsCameraNightmares.png)
 * [Made with Nightmare Puppeteer Image 1](https://github.com/mdotstrange/NightmarePuppeteerPublic/blob/master/Files/MadeWithNP_0.png)
 * [Made With Nightmare Puppeteer Image 2](https://github.com/mdotstrange/NightmarePuppeteerPublic/blob/master/Files/MadeWithNP1.png)
+* [M dot Strange Logo](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/MdotStrange.png)
 * [Imagination Rabbit Logo](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/IRabbit.png)
 
 
