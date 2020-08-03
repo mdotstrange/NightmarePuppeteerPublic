@@ -41,8 +41,8 @@ Your file should be in the same size range. The +Z axis is the props forward fac
 
 **Prop orientation reference images**
 
-[Reference Image 1](https://github.com/mdotstrange/NightmarePuppeteerPublic/blob/master/Files/PropRef1.png)
-[Reference Image 2](https://github.com/mdotstrange/NightmarePuppeteerPublic/blob/master/Files/PropRef2.png)
-[Reference Image 3](https://github.com/mdotstrange/NightmarePuppeteerPublic/blob/master/Files/PropRef3.png)
+* [Reference Image 1](https://github.com/mdotstrange/NightmarePuppeteerPublic/blob/master/Files/PropRef1.png)
+* [Reference Image 2](https://github.com/mdotstrange/NightmarePuppeteerPublic/blob/master/Files/PropRef2.png)
+* [Reference Image 3](https://github.com/mdotstrange/NightmarePuppeteerPublic/blob/master/Files/PropRef3.png)
 
 
