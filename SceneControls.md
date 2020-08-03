@@ -41,6 +41,7 @@
 * Reset time speed = CTRL + SHIFT + RightClick or ALT
 
 **IMAGE CAPTURE**
+* Images are saved in the game folder inside /NightmarePuppeteerImages
 * 360 single image capture = SHIFT + Command/WindowsKey
 * 360 Image sequence capture toggle = CTRL + SHIFT + Command/WindowsKey
 * Cancel image sequence capture = CTRL + SHIFT + DELETE/BACKSPACE
