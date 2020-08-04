@@ -17,10 +17,10 @@
 * Reset alternate angles =  SHIFT + ALT + R
 
 **EFFECT CONTROLS**
-* Load FxFlavors = F1 - F3
-* Reset FxFlavors = F4
-* Load ColorFlavors = F5 - F7
-* Reset ColorFlavors = F8
+* Load FxFlavors = E+ F1 - F3
+* Reset FxFlavors = E+ F4
+* Load ColorFlavors = E+ F5 - F7
+* Reset ColorFlavors = E+ F8
 * Next light color = 0
 
 **MEDIA CONTROLS**
