@@ -68,12 +68,12 @@
 **REMIX CONTROLS**
 
 *Vlooper Controls*
-* Start/Stop VLoopler1 = F1
+* Record/Stop recording VLoopler1 = F1
 * Play/Stop VLoopler1 =  F2
 * Reverse VLoopler1 = F3
 * Clear VLoopler1 = F4
 
-* Start/Stop VLoopler2 = F5
+* Record/Stop recording VLoopler2 = F5
 * Play/Stop VLoopler2 = F6
 * Reverse VLoopler2 = F7
 * Clear VLoopler2 = F8
