@@ -62,7 +62,7 @@
 * Look at Camera = SHIFT + LeftClick
 * Look at clicked point = CTRL + Left Click in scene
 * Reset Look at cicked point = SHIFT + CTRL + Q
-* Toggle Buddy actor random walk = SHIFT + CTRL + A
+* Toggle Buddy actor random walk = HOLD A then press Z
 
 
 **REMIX CONTROLS**
