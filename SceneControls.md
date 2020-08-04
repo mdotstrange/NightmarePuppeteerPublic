@@ -61,7 +61,7 @@
 * Randomize body shader = SHIFT + F7
 * Look at Camera = SHIFT + LeftClick
 * Look at clicked point = CTRL + Left Click in scene
-* Reset Look at cicked point = SHIFT + CTRL + Q
+* Reset Look at clicked point = SHIFT + CTRL + Q
 * Toggle Buddy actor random walk = HOLD A then press Z
 
 
