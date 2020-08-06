@@ -122,7 +122,7 @@
 * !Spin <br />
 * !Spit <br />
 
-**H4KLR 3d Feedback system controls (Throw stuff into the scene during Twitch mode)**
+**HKLR Visual Feedback system controls (Throw stuff into the scene during Twitch mode)**
 
 * **I love this!**
 * Roses = !HRo
@@ -134,7 +134,7 @@
 * Popcorn = !Hpop
 
 * **I Like it!**
-* Likes = !Lik
+* Likes = !HLik
 * Heart = !Hrt
 
 * **I feel nothing**
