@@ -124,9 +124,14 @@
 
 **H4KLR 3d Feedback system controls (Throw stuff into the scene during Twitch mode)**
 
+* **I love this!**
+* Roses = !HRo
+* Money = !Hmo
+
 * **This is disgusting**
 * Tomato = !Hto
 * Mudball = !Hmd
+* Popcorn = !Hpo
 
 * **I Like it!**
 * Likes = !Lik
