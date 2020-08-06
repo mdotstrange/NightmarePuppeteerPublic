@@ -1,4 +1,17 @@
-**CAMERA CONTROLS**
+**MENU CAMERA CONTROLS(Edit Actor menu/Edit Actor head menu**
+* Move camera = MiddleMouseClick + click drag
+* Rotate camera = RightMouseClick + click drag
+* Move camera in/out = MouseWheel
+* Select object = HOLD SPACE + LeftClick
+* Move tool = W
+* Scale tool = E
+* Rotate tool = R
+
+**PAINT HEAD MENU CAMERA CONTROLS**
+* Rotate camera = RightMouseClick + click drag
+* Move camera in/out = MouseWheel
+
+**SCENE CAMERA CONTROLS**
 * Cut to camera = Alpha or Numpad 1-9
 * Zoom camera in/out = Mousewheel OR -/= or Numpad +/-
 * Camera movement XY = ALT + Arrow keys
@@ -41,7 +54,7 @@
 * Reset time speed = CTRL + SHIFT + RightClick or ALT
 
 **IMAGE CAPTURE**
-* Images are saved in the game folder inside /NightmarePuppeteerImages
+* Images are saved in the game folder inside **/NightmarePuppeteer_Data/NightmareCaptures/**
 * 360 single image capture = SHIFT + Command/WindowsKey
 * 360 Image sequence capture toggle = CTRL + SHIFT + Command/WindowsKey
 * Cancel image sequence capture = CTRL + SHIFT + DELETE/BACKSPACE
