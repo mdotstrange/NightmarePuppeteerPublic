@@ -81,15 +81,15 @@
 **REMIX CONTROLS**
 
 *Vlooper Controls*
-* Record/Stop recording VLoopler1 = F1
-* Play/Stop VLoopler1 =  F2
-* Reverse VLoopler1 = F3
-* Clear VLoopler1 = F4
+* Record/Stop recording VLooper1 = F1
+* Play/Stop VLooper1 =  F2
+* Reverse VLooper1 = F3
+* Clear VLooper1 = F4
 
-* Record/Stop recording VLoopler2 = F5
-* Play/Stop VLoopler2 = F6
-* Reverse VLoopler2 = F7
-* Clear VLoopler2 = F8
+* Record/Stop recording VLooper2 = F5
+* Play/Stop VLooper2 = F6
+* Reverse VLooper2 = F7
+* Clear VLooper2 = F8
 
 **Lousy Level Editor controls**
 * Spawn object = LeftClick + Alt
