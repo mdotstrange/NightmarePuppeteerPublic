@@ -30,10 +30,10 @@
 * Reset alternate angles =  SHIFT + ALT + R
 
 **EFFECT CONTROLS**
-* Load FxFlavors = E+ F1 - F3
-* Reset FxFlavors = E+ F4
-* Load ColorFlavors = E+ F5 - F7
-* Reset ColorFlavors = E+ F8
+* Load FxFlavors = E+ 1-3
+* Reset FxFlavors = E+ 4
+* Load ColorFlavors = E+ 5-7
+* Reset ColorFlavors = E+ 8
 * Next light color = 0
 
 **MEDIA CONTROLS**
@@ -65,13 +65,13 @@
 * Seat/unseat main actor = Click seat object
 * Seat/unseat buddy actor = ALT + S
 * Toggle actor to control(If 2 are in scene) = F9
-* Next actor head = SHIFT + F1
-* Random actor head = SHIFT + F2
-* Next actor body = SHIFT + F3
-* Random actor body = SHIFT + F4
-* Randomize all props = SHIFT + F5
-* Random head shader = SHIFT + F6
-* Randomize body shader = SHIFT + F7
+* Next actor head = R + 1
+* Random actor head = R + 2
+* Next actor body = R + 3
+* Random actor body = R + 4
+* Randomize all props = R + 5
+* Random head shader = R + 6
+* Randomize body shader = R + 7
 * Look at Camera = SHIFT + LeftClick
 * Look at clicked point = CTRL + Left Click in scene
 * Reset Look at clicked point = SHIFT + CTRL + Q
