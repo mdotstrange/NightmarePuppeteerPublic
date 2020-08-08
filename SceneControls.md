@@ -44,12 +44,12 @@
 * Play next voice clip(If Tab to talk active) = TAB
 * Toggle Tab to Play = TAB + SHIFT
 * Toggle Misery organ is voice = F12
-* Toggle Misery + Animation = SHIFT + F12
+* Toggle Misery + Animation = Hold M + Press A
 * Voice pitch = SHIFT + Mousewheel
 * Reset voice pitch = SHIFT + MiddleMouseClick or A
-* Toggle midi playback = CTRL + F1
+* Toggle midi playback = SHIFT + Alpha 0
 * Midi tempo = WindowsKey + Mousewheel
-* Next midi soundFont = CTRL + F2
+* Next midi soundFont = SHIFT + Alpha 9
 * Control speed of time = CTRL + SHIFT + MouseWheel
 * Reset time speed = CTRL + SHIFT + RightClick or ALT
 
