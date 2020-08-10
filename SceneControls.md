@@ -49,7 +49,6 @@
 * Reset voice pitch = SHIFT + MiddleMouseClick or A
 * Toggle midi playback = SHIFT + Alpha 0
 * Midi tempo = WindowsKey + Mousewheel
-* Next midi soundFont = SHIFT + Alpha 9
 * Control speed of time = CTRL + SHIFT + MouseWheel
 * Reset time speed = CTRL + SHIFT + RightClick or ALT
 
