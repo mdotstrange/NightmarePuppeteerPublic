@@ -54,7 +54,6 @@
 * Actor Voice Pitch Higher = !Pitch+
 * Actor Voice Pitch Higher = !Pitch-
 * Reset Actor Voice Pitch = !Pitch1
-* Next Sound font(If midi is playing) = !Sf+
 * Speed up time = !Time+
 * Slow down time = !Time-
 * Reset time speed = !Time1
