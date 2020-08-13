@@ -41,7 +41,8 @@
 * Next HumanMiseryOrgan set = CTRL + Q
 * Toggle Human Misery organ = F10
 * Toggle voice audio looping = F11
-* Play next voice clip(If Tab to talk active) = TAB
+* Play next voice clip on main actor(If Tab to talk active) = TAB
+* Play next voice clip on buddy actor(If Tab to talk active) = Hold SHIFT + press TAB
 * Toggle Tab to Play = TAB + SHIFT
 * Toggle Misery organ is voice = F12
 * Toggle Misery + Animation = Hold M + Press A
