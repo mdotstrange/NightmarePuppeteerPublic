@@ -11,7 +11,7 @@ Here is Nightmare Puppeteers [User Manual](https://github.com/mdotstrange/Nightm
 
 Get Nightmare Puppeteer on [Steam](https://store.steampowered.com/app/1355310/Nightmare_Puppeteer/)
 
-[Online Press Kit](https://nightmarepuppeteer.carrd.co/)
+Nightmare Puppeteer [Online Press Kit](https://nightmarepuppeteer.carrd.co/)
 
 If you find any bugs/errors or have feature requests please post them in [Issues](https://github.com/mdotstrange/NightmarePuppeteerPublic/issues)
 
