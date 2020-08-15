@@ -43,7 +43,7 @@
 * Toggle voice audio looping = F11
 * Play next voice clip on main actor(If Tab to talk active) = TAB
 * Play next voice clip on buddy actor(If Tab to talk active) = Hold SHIFT + press TAB
-* Toggle Tab to Play = ALT + TAB
+* Toggle Tab to Play = Hold Middle Mouse + TAB
 * Toggle Misery organ is voice = F12
 * Toggle Misery + Animation = Hold M + Press A
 * Voice pitch = SHIFT + Mousewheel
