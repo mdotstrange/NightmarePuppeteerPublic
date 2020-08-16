@@ -1,3 +1,8 @@
+**8_16_2020 - NP Beta 1_6 on Steam**
+* Added tooltips to the Return and Esc menu's
+* Fixed an issue that prevented 2 actor Tab To Talk from working correctly
+* Other small fixes
+
 **8_12_2020 - NP Beta 1_5 on Steam**
 * Revamped the Steam Workshop integration to make it easier to use
 * Fixed an issue where swapped actor roles were retained when returning to the scene menu
