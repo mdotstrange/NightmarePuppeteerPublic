@@ -11,14 +11,6 @@
 * !Txt2+text <br />
 * Working Example !Txt1+Hello Nightmare World!
 
-**Load voice mp3** <br />
-* !Vox+url <br />
-* Working Example !Vox+https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/LilBootchyTalking.mp3
-
-**Load music mp3** <br />
-* !Bgm+url <br />
-* Working Example !Bgm+https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/Freedumb_Instru.mp3
-
 **Load video .mp4 (only works in scenes that include video players)** 
 * !Mp4+url
 * Working Example !Mp4+https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/SampleVideo_1280x720.mp4
