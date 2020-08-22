@@ -1,3 +1,8 @@
+**8_22_2010 - NP Beta 2 on Steam**
+* Redesigned the Ui, scene menu is now 3d menu
+* Small bug fixes from testing
+* Removed Nightmare uploading/downloading from Workshop
+
 **8_16_2020 - NP Beta 1_6 on Steam**
 * Added tooltips to the Return and Esc menu's
 * Fixed an issue that prevented 2 actor Tab To Talk from working correctly
