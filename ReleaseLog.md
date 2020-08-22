@@ -2,6 +2,7 @@
 * Redesigned the Ui, scene menu is now 3d menu
 * Small bug fixes from testing
 * Removed Nightmare uploading/downloading from Workshop
+* Removed submitting audio files using Twitch chat
 
 **8_16_2020 - NP Beta 1_6 on Steam**
 * Added tooltips to the Return and Esc menu's
