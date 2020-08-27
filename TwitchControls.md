@@ -1,5 +1,16 @@
 # Twitch Controls <br /><br />
 
+**Load 16bit 44.1 .wav files for voices and Bgm**
+**Main actors voice**
+* !Vox1+url
+* Working Example !Vox1+https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/Vox1ForTwitch.wav
+**Buddys voice(if present)**
+* !Vox2+url
+* Working Example !Vox2+https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/Vox2ForTwitch.wav
+**Background music**
+* !Bgm+url
+* Working Example !Bgm+https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/BgmForTwitch.wav
+
 **Load .png, .jpg, .jpeg (only works in scenes that uses images)** <br />
 * !Img1+url <br />
 * !Img2+url <br />
