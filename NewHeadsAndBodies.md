@@ -10,7 +10,8 @@ will process it and send it back to you. You can then upload it to Steam Worksho
 * For the heads they need to have a skinned jaw, only one joint/bone is really required and it **should rotate on its X axis**
 to open/close the mouth- see the example file as a reference. The head can have a neck, that is up to you but a sausage neck will be added anyway.
 
-* For the bodies they need to have a **Unity Humanoid/Mixamo compatible skeleton** or they will not work, see the example file as a reference. 
+* For the bodies they need to have a **Unity Humanoid/Mixamo compatible skeleton** or they will not work. **Remove the 
+models head** before sending it please. Please keep the neck though. See the example file as a reference. 
 
 * Please put your model, textures and a text file with your email address into a folder you add to the Dropbox
 * ![this](https://raw.githubusercontent.com/mdotstrange/NightmarePuppeteerPublic/master/Files/ModelUpload.png)
@@ -19,4 +20,4 @@ to open/close the mouth- see the example file as a reference. The head can have 
 * Send me your head models using [Dropbox here](https://www.dropbox.com/request/iuxLfGnIaUohQm46mzeH)
 * Send me your body models using [Dropbox here](https://www.dropbox.com/request/cgat97V4ziC2kswYdvIy)
 
-* I will process models once a week so please allow a week to receive your processed model, thank you.
+* **I will process models once a week so please allow a week to receive your processed model, thank you.**
