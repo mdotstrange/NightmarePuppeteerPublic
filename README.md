@@ -15,6 +15,9 @@ Nightmare Puppeteer [Online Press Kit](https://nightmarepuppeteer.carrd.co/)
 
 If you find any bugs/errors or have feature requests please post them in [Issues](https://github.com/mdotstrange/NightmarePuppeteerPublic/issues)
 
+**Make your own bodies and heads**
+* Get info on how to do that [here](https://github.com/mdotstrange/NightmarePuppeteerPublic/blob/master/NewHeadsAndBodies.md)
+
 **Mask Template images**
 
 * Nightmare Puppeteer includes three heads you can load your own images onto
