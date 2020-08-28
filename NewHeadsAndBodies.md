@@ -18,3 +18,5 @@ to open/close the mouth- see the example file as a reference. The head can have 
 
 * Send me your head models using [Dropbox here](https://www.dropbox.com/request/iuxLfGnIaUohQm46mzeH)
 * Send me your body models using [Dropbox here](https://www.dropbox.com/request/cgat97V4ziC2kswYdvIy)
+
+* I will process models once a week so please allow a week to receive your processed model, thank you.
