@@ -40,23 +40,6 @@ If you find any bugs/errors or have feature requests please post them in [Issues
 * ![Skinmin](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/SkiNMin.png)
 * [Skinmin template image](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/SkinmenTemplate.png)
 
-
-**Nightmare Puppeteer "Made with" images + Press logo's/images etc**
-* [Nightmare Puppeteer Logo](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/Nplogo.png)
-* [Drawn Nightmare Puppeteer Logo by Kool Skull](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/NpDrawn.png)
-* [Nightmare Puppeteer logo animated gif](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/NpMover.gif)
-* [Box Art by Kool Skull](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/Cover1.png)
-* [Box Art 1](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/Cover2.png)
-* [Box Art 2](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/Cover2.png)
-* [Box Art 3 by Kool Skull](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/NpBoxArt.png)
-* [HKLR Visual feedback system Logo](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/Hklr.png)
-* [Lights Camera Nightmares image](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/LightsCameraNightmares.png)
-* [Made with Nightmare Puppeteer Image 1](https://github.com/mdotstrange/NightmarePuppeteerPublic/blob/master/Files/MadeWithNP_0.png)
-* [Made With Nightmare Puppeteer Image 2](https://github.com/mdotstrange/NightmarePuppeteerPublic/blob/master/Files/MadeWithNP1.png)
-* [M dot Strange Logo](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/MdotStrange.png)
-* [Imagination Rabbit Logo](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/IRabbit.png)
-
-
 **About importing and using your own .fbx prop models**
 
 Download and use the Example Prop Fbx file [here](https://github.com/mdotstrange/NightmarePuppeteerPublic/blob/master/Files/ExampleFbxFileImport.fbx) as a reference. Take note of its size and orientation.
@@ -74,5 +57,24 @@ Your file should be in the same size range. The +Z axis is the props forward fac
 * [Reference Image 1](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/PropRef1.png)
 * [Reference Image 2](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/PropRef2.png)
 * [Reference Image 3](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/PropRef3.png)
+
+
+**Nightmare Puppeteer "Made with" images + Press logo's/images etc**
+* [Nightmare Puppeteer Logo](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/Nplogo.png)
+* [Drawn Nightmare Puppeteer Logo by Kool Skull](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/NpDrawn.png)
+* [Nightmare Puppeteer logo animated gif](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/NpMover.gif)
+* [Box Art by Kool Skull](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/Cover1.png)
+* [Box Art 1](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/Cover2.png)
+* [Box Art 2](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/Cover2.png)
+* [Box Art 3 by Kool Skull](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/NpBoxArt.png)
+* [HKLR Visual feedback system Logo](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/Hklr.png)
+* [Lights Camera Nightmares image](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/LightsCameraNightmares.png)
+* [Made with Nightmare Puppeteer Image 1](https://github.com/mdotstrange/NightmarePuppeteerPublic/blob/master/Files/MadeWithNP_0.png)
+* [Made With Nightmare Puppeteer Image 2](https://github.com/mdotstrange/NightmarePuppeteerPublic/blob/master/Files/MadeWithNP1.png)
+* [M dot Strange Logo](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/MdotStrange.png)
+* [Imagination Rabbit Logo](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/IRabbit.png)
+
+
+
 
 
