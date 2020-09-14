@@ -1,3 +1,5 @@
+**All these controls might not be implemented in the Steam build yet | Refer to the manual for the builds latest controls**
+
 **MENU CAMERA CONTROLS(Edit Actor menu/Edit Actor head menu**
 * Move camera = MiddleMouseClick + click drag
 * Rotate camera = RightMouseClick + click drag
@@ -16,6 +18,7 @@
 * Zoom camera in/out = Mousewheel OR -/= or Numpad +/-
 * Camera movement XY = ALT + Arrow keys
 * Camera movement Z = ALT + +/- or MouseWheel
+* Rotate camera = arrow keys
 * Reset camera position/rotation =  SHIFT + ALT + Q
 * Camera Look At clicked point = Alt + LeftClick
 * Camera Smooth Zoom in = ALT + Right Click
@@ -24,6 +27,15 @@
 * Camera speed multiplier = CTRL + ALT + MouseWheel
 * Reset cam speed multiplier = CTRL + ALT + MiddleMouseClick or A
 * Toggle eye camera active(if one or more in scene) = BACKQUOTE
+* Dutch angles = SHIFT + left arrow or SHIFT + right arrow
+* Punch camera = ALT + SHIFT + Arrow keys
+* Punch Focal length = HOLD SHIFT + press SPACE
+* Camera look at Actor 1 = Hold Left Click + Tab
+* Camera look at Actor 2 = Hold Right Click + Tab
+
+*(For normal cameras 1-6)*
+* Look at actor 1 = SHIFT + 1
+* Look at actor 2 = SHIFT + 2
 
 *(For tracking cameras 7-9)*
 * Switch to alternate tracking angles = SHIFT + 1-6 or WindowsKey + Numpad 1-6
