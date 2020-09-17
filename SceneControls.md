@@ -32,8 +32,8 @@
 * Punch Focal length = HOLD SHIFT + press SPACE
 
 *(For normal cameras 1-6)*
-* Look at actor 1 = SHIFT + 1
-* Look at actor 2 = SHIFT + 2
+* Look at actor 1 = SHIFT + Alpha1
+* Look at actor 2 = SHIFT + Alpha2
 
 *(For tracking cameras 7-9)*
 * Switch to alternate tracking angles = SHIFT + 1-6 or WindowsKey + Numpad 1-6
