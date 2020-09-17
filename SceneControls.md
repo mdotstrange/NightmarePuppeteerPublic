@@ -30,8 +30,6 @@
 * Dutch angles = SHIFT + left arrow or SHIFT + right arrow
 * Punch camera = ALT + SHIFT + Arrow keys
 * Punch Focal length = HOLD SHIFT + press SPACE
-* Camera look at Actor 1 = Hold Left Click + Tab
-* Camera look at Actor 2 = Hold Right Click + Tab
 
 *(For normal cameras 1-6)*
 * Look at actor 1 = SHIFT + 1
