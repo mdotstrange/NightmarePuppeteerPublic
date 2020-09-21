@@ -19,6 +19,7 @@ If you find any bugs/errors or have feature requests please post them in [Issues
 * Get info on how to do that [here](https://github.com/mdotstrange/NightmarePuppeteerPublic/blob/master/NewHeadsAndBodies.md)
 
 **Mask Template images**
+* These template images can also be found inside the games folder
 
 * Nightmare Puppeteer includes three heads you can load your own images onto
 * Here are the template image files for each, modify them and load them back on
