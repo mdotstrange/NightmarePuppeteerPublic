@@ -1,14 +1,17 @@
 # Twitch Controls <br /><br />
 
-**Load 16bit 44.1 .wav files for voices and Bgm**
+**Load youtube/bitchute videos or .wav files for use as Actors voice**
 * **Main actors voice**<br 
 * !Vox1+url
+* Working Example !Vox1+https://www.youtube.com/watch?v=ZXsQAXx_ao0
 * Working Example !Vox1+https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/Vox1ForTwitch.wav
-* **Buddys voice(if present)**
+* **Buddys voice (youtube/bitchute links or .wav)**
 * !Vox2+url
+* Working Example !Vox2+https://www.youtube.com/watch?v=ZXsQAXx_ao0
 * Working Example !Vox2+https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/Vox2ForTwitch.wav
-* **Background music**
+* **Background music (youtube/bitchute links or .wav)**
 * !Bgm+url
+* Working Example !Bgm+https://www.youtube.com/watch?v=ZXsQAXx_ao0
 * Working Example !Bgm+https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/BgmForTwitch.wav
 
 **Load .png, .jpg, .jpeg (only works in scenes that uses images)** <br />
@@ -22,13 +25,13 @@
 * !Txt2+text <br />
 * Working Example !Txt1+Hello Nightmare World!
 
-**Load video .mp4 (only works in scenes that include video players)** 
-* !Mp4+url
-* Working Example !Mp4+https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/SampleVideo_1280x720.mp4
+**Load video youtube/bitchute links or .mp4 (only works in scenes that include video players)** 
+* !Vid1+url
+* Working Example !Vid1+https://www.youtube.com/watch?v=5-sfG8BV8wU
 
-**Load green screen video .mp4 (only works in scenes that use green screen)** 
-* !Mp4Green+url
-* Working Example !Mp4G+https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/Doit.mp4
+**Load green screen video youtube/bitchute links or .mp4(only works in scenes that use green screen)** 
+* !Vid2+url
+* Working Example !Vid2+https://www.youtube.com/watch?v=ZXsQAXx_ao0
 
 **Load Midi .mid file**
 * !Mid+url
