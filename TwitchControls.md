@@ -1,7 +1,7 @@
 # Twitch Controls <br /><br />
 
 **Load youtube/bitchute videos or .wav files for use as Actors voice**
-* **Main actors voice**<br 
+* **Main actors voice**
 * !Vox1+url
 * Working Example !Vox1+https://www.youtube.com/watch?v=ZXsQAXx_ao0
 * Working Example !Vox1+https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/Vox1ForTwitch.wav
