@@ -63,6 +63,9 @@
 * Control speed of time = CTRL + SHIFT + MouseWheel
 * Reset time speed = CTRL + SHIFT + RightClick or ALT
 
+**Emergency menu** (use this if you are in a scene and you cannot get out)
+* End key
+
 **IMAGE CAPTURE**
 * Images are saved in the game folder inside **/NightmarePuppeteer_Data/NightmareCaptures/**
 * 360 single image capture = SHIFT + Command/WindowsKey
