@@ -47,7 +47,8 @@
 * Next light color = 0
 
 **MEDIA CONTROLS**
-* Next animation set = ALT + Q
+* Previous animation set = ALT + Q
+* Next animation set = ALT + A
 * Next HumanMiseryOrgan set = CTRL + Q
 * Toggle Human Misery organ = F10
 * Toggle voice audio looping = F11
