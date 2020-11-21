@@ -1,4 +1,4 @@
-**All these controls might not be implemented in the Steam build yet | Refer to the manual for the builds latest controls**
+**All these controls might not be implemented in the default Steam build yet | Check the beta branch on Steam if some of these controls don't work-
 
 **MENU CAMERA CONTROLS(Edit Actor menu/Edit Actor head menu**
 * Move camera = MiddleMouseClick + click drag
@@ -63,6 +63,7 @@
 * Midi tempo = WindowsKey + Mousewheel
 * Control speed of time = CTRL + SHIFT + MouseWheel
 * Reset time speed = CTRL + SHIFT + RightClick or ALT
+* Toggle Info HUD = Hold Left SHIFT and press Right SHIFT
 
 **Emergency menu** (use this if you are in a scene and you cannot get out)
 * End key
