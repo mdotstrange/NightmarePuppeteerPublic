@@ -1,4 +1,4 @@
-**All these controls might not be implemented in the default Steam build yet | Check the beta branch on Steam if some of these controls don't work-
+**All these controls might not be implemented in the default Steam build yet | Check the beta branch on Steam if some of these controls don't work-**
 
 **MENU CAMERA CONTROLS(Edit Actor menu/Edit Actor head menu**
 * Move camera = MiddleMouseClick + click drag
