@@ -45,6 +45,7 @@
 * Load ColorFlavors = E+ 5-7
 * Reset ColorFlavors = E+ 8
 * Next light color = 0
+* Change scene light intensity = Hold L & Mousewheel +/-
 
 **MEDIA CONTROLS**
 * Previous animation set = ALT + Q
