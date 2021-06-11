@@ -1,6 +1,22 @@
 
-**Download these example files as a reference to make/mod your own bodies and heads**
+**Information on importing 3d models into NP**
 
-* [Head fbx file](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/BlobHead.fbx)
+* With all models use Embedded textures if you can otherwise make sure the texture files are in the same directory as the fbx you want to load like this...
+* ![]
 
-* [Body fbx file](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/workoutWoman.fbx)
+* **The following programs/sites exported fbx file formats are supported for bodies and heads**
+* ----------------
+* 
+* * Daz Studio - see tested export settings
+* ![]
+
+* * Mixamo
+* * Models exported from Mixamo.com
+* * If you rig a model using mixamo and download it from Mixamo.com it should also work
+
+* * Iclone Character Creator
+* * I don't own this and had a friend export it for me so I can't access the export settings sorry-
+
+* * MakeHuman - see tested export settings
+* * ![]
+* * Notes- MakeHuman models will load in with textures correctly- if you upload them to workshop they will be missing their textures when downloaded from Workshop
