@@ -8,7 +8,7 @@
 * ----------------
 * 
 * * Daz Studio - see tested export settings
-* ![]
+* ![DazExportImage](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/DazOptions.png)
 
 * * Mixamo
 * * Models exported from Mixamo.com
@@ -20,3 +20,5 @@
 * * MakeHuman - see tested export settings
 * * ![]
 * * Notes- MakeHuman models will load in with textures correctly- if you upload them to workshop they will be missing their textures when downloaded from Workshop
+
+* * Unity 
