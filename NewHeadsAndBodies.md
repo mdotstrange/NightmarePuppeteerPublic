@@ -1,3 +1,6 @@
+##OBSOLETE AS NP NOW INCLUDES IMPORTING OF 3d MODELS
+
+
 If you want to use a custom head or body in Nightmare Puppeteer you can send me the model and I
 will process it and send it back to you. You can then upload it to Steam Workshop for everyone to use.
 
