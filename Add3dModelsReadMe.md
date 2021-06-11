@@ -1,8 +1,11 @@
  ![Add3dmodelimage](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/add3dModels.png)
 ----------------------
+* **TEMPORARY INFO PAGE**
+* ------------------------------------------
 
 * With all models use Embedded textures if you can otherwise make sure the texture files are in the same directory as the fbx you want to load like this...
 * ![File example](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/FileTextures.png)
+* *Importing can be pretty slow sometimes with character models(10-30 seconds). After adding a model to NP, NP will **NOT save it** so you can use it again after quitting. Instead I recommend **adding it to Steam Workshop. When you want to use it again just download it from Workshop.**
 
 ---------------
  **The following programs/sites exported fbx file formats are supported for bodies and heads**
@@ -29,3 +32,9 @@
 ----------------------------
 * **Unity** - all humanoid characters should work
 * See [link to Rig Definer](https://github.com/mdotstrange/NightmarePuppeteerPublic/releases/tag/v1.0) to use Unity models
+* -----------------------------
+* **PROP MODELS**
+--------------------
+* follow the same texture guidelines listed at the top of this
+* animation will be imported and looped in a ping-pong manner
+* no skinning/rigging is supported
