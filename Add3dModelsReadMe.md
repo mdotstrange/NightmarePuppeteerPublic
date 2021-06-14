@@ -21,7 +21,7 @@
 * If you rig a model using mixamo and download it from Mixamo.com it should also work
 
 -----------------------------
-* **Iclone Character Creator**
+* **iClone Character Creator**
 * I don't own this and had a friend export it for me so I can't access the export settings sorry-
 
 ----------------------
