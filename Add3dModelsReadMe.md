@@ -27,6 +27,7 @@
 ----------------------
  * **MakeHuman** - see tested export settings
  * ![MakeHUmanExport](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/MakeHUman2.jpg)
+ * **YOU MUST USE the "Default no toes" rig for import to work correctly**
  * Notes- MakeHuman models will load in with textures correctly- if you upload them to workshop they will be missing their textures when downloaded from Workshop
 
 ----------------------------
