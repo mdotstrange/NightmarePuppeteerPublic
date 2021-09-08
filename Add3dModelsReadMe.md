@@ -20,6 +20,7 @@
 * **Mixamo**
 * Models exported from Mixamo.com
 * If you rig a model using mixamo and download it from Mixamo.com it should also work
+* Mixamo rigs DO NOT have jaws so you can't use them for lip sync unless you add a jaw joint and skin it yourself. See [here](link to jaw examples) for details.
 
 -----------------------------
 * **iClone Character Creator**
