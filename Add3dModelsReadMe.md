@@ -9,7 +9,7 @@
 
 ---------------
  **The following programs/sites exported fbx file formats are supported for bodies and heads**
- ** *You can download example Fbx files from the different programs [here](https://github.com/mdotstrange/NightmarePuppeteerPublic/releases/tag/ExampleFbxFiles) in the Releases.
+ ** You can download example Fbx files from the different programs [here](https://github.com/mdotstrange/NightmarePuppeteerPublic/releases/tag/ExampleFbxFiles) in the Releases.
  ----------------
  ---------------------
  
@@ -40,3 +40,6 @@
 * follow the same texture guidelines listed at the top of this
 * animation will be imported and looped in a ping-pong manner
 * no skinning/rigging is supported
+
+-------------------------------------------
+ ** You can download example Fbx files from the different programs [here](https://github.com/mdotstrange/NightmarePuppeteerPublic/releases/tag/ExampleFbxFiles) in the Releases.
