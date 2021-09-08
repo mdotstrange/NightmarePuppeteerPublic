@@ -34,7 +34,7 @@
 
 ----------------------------
 * **Custom models will work if they are Unity humanoid models** - all humanoid characters should work
-* See [link to Rig Definer](https://github.com/mdotstrange/NightmarePuppeteerPublic/releases/tag/v1.0) to use Unity models
+* See [link to Rig Definer](https://github.com/mdotstrange/NightmarePuppeteerPublic/releases/tag/v1.0) to use models Unity recognizes as "humanoid"
 * See info about rigging the jaw for lip sync [here](https://github.com/mdotstrange/NightmarePuppeteerPublic/blob/master/customJaw.md)
 * -----------------------------
 * **PROP MODELS**
