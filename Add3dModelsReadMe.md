@@ -9,6 +9,7 @@
 
 ---------------
  **The following programs/sites exported fbx file formats are supported for bodies and heads**
+ ** *You can download example Fbx files from the different programs [https://github.com/mdotstrange/NightmarePuppeteerPublic/releases/tag/ExampleFbxFiles(]here) in the Releases.
  ----------------
  ---------------------
  
