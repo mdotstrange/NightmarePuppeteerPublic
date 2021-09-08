@@ -2,16 +2,9 @@
 
 ![NP](https://github.com/mdotstrange/NightmarePuppeteerPublic/blob/master/TVMode.png)
 
-
 Here are Nightmare Puppeteers [controls](https://github.com/mdotstrange/NightmarePuppeteerPublic/blob/master/SceneControls.md)
 
-Here are Nightmare Puppeteers Twitch chat [commands](https://github.com/mdotstrange/NightmarePuppeteerPublic/blob/master/TwitchControls.md)
-
 Here is Nightmare Puppeteers [User Manual](https://github.com/mdotstrange/NightmarePuppeteerPublic/releases/download/manual/NightmarePuppeteerUserManual.pdf)
-
-Get Nightmare Puppeteer on [Steam](https://store.steampowered.com/app/1355310/Nightmare_Puppeteer/)
-
-Nightmare Puppeteer [Online Press Kit](https://nightmarepuppeteer.carrd.co/)
 
 If you find any bugs/errors or have feature requests please post them in [Issues](https://github.com/mdotstrange/NightmarePuppeteerPublic/issues)
 
@@ -20,6 +13,13 @@ If you find any bugs/errors or have feature requests please post them in [Issues
 * Example fbx files for testing and scale reference [here](https://github.com/mdotstrange/NightmarePuppeteerPublic/releases/tag/ExampleFbxFiles)
 * Use our "RigDefiner" Unity script to prep your custom models [here](https://github.com/mdotstrange/NightmarePuppeteerPublic/releases/tag/v1.0)
 * Info about rigging your custom models jaw [here](https://github.com/mdotstrange/NightmarePuppeteerPublic/blob/master/customJaw.md)
+
+Here are Nightmare Puppeteers Twitch chat [commands](https://github.com/mdotstrange/NightmarePuppeteerPublic/blob/master/TwitchControls.md)
+
+Get Nightmare Puppeteer on [Steam](https://store.steampowered.com/app/1355310/Nightmare_Puppeteer/)
+
+Nightmare Puppeteer [Online Press Kit](https://nightmarepuppeteer.carrd.co/)
+
 
 **Mask Template images (These template images can also be found inside the games folder)**
 
