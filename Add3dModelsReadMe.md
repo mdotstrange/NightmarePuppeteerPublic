@@ -20,7 +20,7 @@
 * **Mixamo**
 * Models exported from Mixamo.com
 * If you rig a model using mixamo and download it from Mixamo.com it should also work
-* Mixamo rigs DO NOT have jaws so you can't use them for lip sync unless you add a jaw joint and skin it yourself. See [here](link to jaw examples) for details.
+* Mixamo rigs DO NOT have jaws so you can't use them for lip sync unless you add a jaw joint and skin it yourself. See [here](https://github.com/mdotstrange/NightmarePuppeteerPublic/blob/master/customJaw.md) for details.
 
 -----------------------------
 * **iClone Character Creator**
@@ -33,8 +33,9 @@
  * Notes- MakeHuman models will load in with textures correctly- if you upload them to workshop they will be missing their textures when downloaded from Workshop
 
 ----------------------------
-* **Unity** - all humanoid characters should work
+* **Custom models will work if they are Unity humanoid models** - all humanoid characters should work
 * See [link to Rig Definer](https://github.com/mdotstrange/NightmarePuppeteerPublic/releases/tag/v1.0) to use Unity models
+* See info about rigging the jaw for lip sync [here](https://github.com/mdotstrange/NightmarePuppeteerPublic/blob/master/customJaw.md)
 * -----------------------------
 * **PROP MODELS**
 --------------------
