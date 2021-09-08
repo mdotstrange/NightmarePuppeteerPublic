@@ -15,8 +15,11 @@ Nightmare Puppeteer [Online Press Kit](https://nightmarepuppeteer.carrd.co/)
 
 If you find any bugs/errors or have feature requests please post them in [Issues](https://github.com/mdotstrange/NightmarePuppeteerPublic/issues)
 
-**Make your own bodies and heads**
-* Get info on how to do that [here](https://github.com/mdotstrange/NightmarePuppeteerPublic/blob/master/NewHeadsAndBodies.md)
+**(TESTING build) Add your own 3d models to NP**
+* Guidelines for 3d model import [here](https://github.com/mdotstrange/NightmarePuppeteerPublic/blob/master/Add3dModelsReadMe.md)
+* Example fbx files for testing and scale reference [here](https://github.com/mdotstrange/NightmarePuppeteerPublic/releases/tag/ExampleFbxFiles)
+* Use our "RigDefiner" Unity script to prep your custom models [here](https://github.com/mdotstrange/NightmarePuppeteerPublic/releases/tag/v1.0)
+* Info about rigging your custom models jaw [here](https://github.com/mdotstrange/NightmarePuppeteerPublic/blob/master/customJaw.md)
 
 **Mask Template images (These template images can also be found inside the games folder)**
 
