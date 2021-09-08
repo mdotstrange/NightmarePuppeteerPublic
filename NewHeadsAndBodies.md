@@ -1,4 +1,4 @@
-##OBSOLETE AS NP NOW INCLUDES IMPORTING OF 3d MODELS
+##**OBSOLETE AS NP NOW INCLUDES IMPORTING OF 3d MODELS**
 
 
 If you want to use a custom head or body in Nightmare Puppeteer you can send me the model and I
