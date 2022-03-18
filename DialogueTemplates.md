@@ -35,8 +35,8 @@
 
 **When writing a dialogue to be between 2 actors and not just random lines there are some special variables to use**
 
-* [charN1] Actor 1's name- this will randomly generate/retrieve a noun that will be used as actor 1's name in the dialogues
-* [charN2] Actor 2's name- this will randomly generate/retrieve a noun that will be used as actor 2's name in the dialogues
+* [charN1] **Actor 1's name**- this will randomly generate/retrieve a noun that will be used as actor 1's name in the dialogues
+* [charN2] **Actor 2's name**- this will randomly generate/retrieve a noun that will be used as actor 2's name in the dialogues
 * **Example** - "[charN1] waves to [charN2] and does an [adj] [v]
 * These character name variables are stored and used for the entirety of the conversation
 
