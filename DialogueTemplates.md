@@ -52,4 +52,4 @@
 *  [Actor2 file](https://raw.githubusercontent.com/mdotstrange/NightmarePuppeteerPublic/master/Files/Actor2_Stalker.txt)
 *  It's easy to create text files like that with Notepad++ 
 
-**To share your dialogue templates please post them** ![HERE](https://github.com/mdotstrange/NightmarePuppeteerPublic/discussions/419)
+**To share your dialogue templates please post them** [HERE](https://github.com/mdotstrange/NightmarePuppeteerPublic/discussions/419)
