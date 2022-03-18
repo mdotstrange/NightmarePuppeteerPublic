@@ -1,24 +1,24 @@
 **If you want to make your own dialogue text templates to be used in NP here is the syntax reference**
 
 
-* [n] noun - examples: airplane, sirship, airport
-* [v] verb - examples: dive, paddle, muzzle
-* [adv] adverb - examples: badly, awkwardly, coyly
-* [adj] adjective - examples: aggressive, afraid, amused
-* [avc] adverb conjective - examples: elsewhere, finally, likewise
-* [avn] adverb no LY - examples: best, even, far
-* [pn] pronoun - examples: he, she, they
-* [feel] feeling - examples: love, hate, abhor
-* [color] color - examples: green, blue, black
-* [stars] constellations - examples: Aries, Cancer, Capricornus
-* [rf] rap filler -  examples: ay, yeah, money
-* [qs] question starter - examples: why, what, when
-* [qg] question glue - examples: if, or, also
-* [fish] fish name - examples: Salmon, trout, albacore
-* [*] curse word - examples: shit, fuck, dildo
-* [!] random punctuation - examples: !, ? , .
-* [time] times - examples: forever, a minute, a long time ago
-* [ship] ship names - examples: Adonia, Athena, Arosa star
+* [n] **noun** - examples: airplane, sirship, airport
+* [v] **verb** - examples: dive, paddle, muzzle
+* [adv] **adverb** - examples: badly, awkwardly, coyly
+* [adj] **adjective** - examples: aggressive, afraid, amused
+* [avc] **adverb conjective** - examples: elsewhere, finally, likewise
+* [avn] **adverb no LY** - examples: best, even, far
+* [pn] **pronoun** - examples: he, she, they
+* [feel] **feeling** - examples: love, hate, abhor
+* [color] **color** - examples: green, blue, black
+* [stars] **constellations** - examples: Aries, Cancer, Capricornus
+* [rf] **rap filler** -  examples: ay, yeah, money
+* [qs] **question starter** - examples: why, what, when
+* [qg] **question glue** - examples: if, or, also
+* [fish] **fish name** - examples: Salmon, trout, albacore
+* [*] **curse word** - examples: shit, fuck, dildo
+* [!] **random punctuation** - examples: !, ? , .
+* [time] **times** - examples: forever, a minute, a long time ago
+* [ship] **ship names** - examples: Adonia, Athena, Arosa star
 
 **Create a text file where each line is a new line of dialog, Notepad++ recommended**
 
