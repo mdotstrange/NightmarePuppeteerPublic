@@ -20,10 +20,15 @@
 * Working Example !Img1+https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/MadeWithNP_0.png
 * Working Example !Img2+https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/MadeWithNP1.png
 
+**Speak this dialogue** <br />
+* !Talk1+text <br />
+* !Talk2+text <br />
+* Working Example !Talk1+Hello Nightmare World!
+
 **Load text (only works in scenes where text overlay is present)** <br />
 * !Txt1+text <br />
 * !Txt2+text <br />
-* Working Example !Txt1+Hello Nightmare World!
+* Working Example !Txt1+I'm bored of talking to fruit.
 
 **Load video file mp4, wmv, +  (only works in scenes that include video players)** 
 * !Vid1+url
