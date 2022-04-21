@@ -21,8 +21,8 @@
 * Working Example !Img2+https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/MadeWithNP1.png
 
 **Speak this dialogue** <br />
-* !Talk1+text <br />
-* !Talk2+text <br />
+* !Tlk1+text <br />
+* !Tlk2+text <br />
 * Working Example !Talk1+Hello Nightmare World!
 
 **Load text (only works in scenes where text overlay is present)** <br />
