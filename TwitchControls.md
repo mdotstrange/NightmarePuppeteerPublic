@@ -23,7 +23,7 @@
 **Speak this dialogue** <br />
 * !Tlk1+text <br />
 * !Tlk2+text <br />
-* Working Example !Talk1+Hello Nightmare World!
+* Working Example !Tlk1+Hello Nightmare World!
 
 **Load text (only works in scenes where text overlay is present)** <br />
 * !Txt1+text <br />
