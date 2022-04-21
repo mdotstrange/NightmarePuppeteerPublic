@@ -25,23 +25,17 @@
 * !Txt2+text <br />
 * Working Example !Txt1+Hello Nightmare World!
 
-**Load video youtube/bitchute links or .mp4 (only works in scenes that include video players)** 
+**Load video file mp4, wmv, +  (only works in scenes that include video players)** 
 * !Vid1+url
-* Working Example !Vid1+https://www.youtube.com/watch?v=5-sfG8BV8wU
+* Working Example !Vid1+https://archive.org/download/PrivateL1947/PrivateL1947_512kb.mp4
 
-**Load green screen video youtube/bitchute links or .mp4(only works in scenes that use green screen)** 
+**Load green screen video file mp4, wmv, +  (only works in scenes that include video players)** 
 * !Vid2+url
-* Working Example !Vid2+https://www.youtube.com/watch?v=ZXsQAXx_ao0
+* Working Example !Vid2+https://archive.org/download/L0ckergn0me-PixieGreenScreen446/L0ckergn0me-PixieGreenScreen446_512kb.mp4
 
 **Load Midi .mid file**
 * !Mid+url
 * Working Example !Mid+https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/BallTongue.mid
-
-**Load .fbx file (15 megabyte limit, same file size/specs as custom fbx props see [here](https://github.com/mdotstrange/NightmarePuppeteerPublic))**
-* !Fbx+url
-* Working Example !Fbx+https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/ExampleFbxFileImport.fbx
-* **BONUS SHOE ON HEAD!!!!** !FbxH+url
-* **BONUS MUH DICK!!!!** !FbxD+url
 
 **Stop voice** <br />
 * !VStop <br /><br />
