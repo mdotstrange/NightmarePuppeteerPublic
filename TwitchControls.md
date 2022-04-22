@@ -4,9 +4,13 @@
 * **Main actors voice**
 * !Vox1+url
 * Working Example !Vox1+https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/Vox1ForTwitch.wav
-* **Buddys voice (youtube/bitchute links or .wav)**
+
+
+* **Buddys voice**
 * !Vox2+url
 * Working Example !Vox2+https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/Vox2ForTwitch.wav
+
+
 * **Background music ( .wav, .mp3, etc)**
 * !Bgm+url
 * Working Example !Bgm+https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/BgmForTwitch.wav
