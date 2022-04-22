@@ -1,17 +1,14 @@
 # Twitch Controls <br /><br />
 
-**Load youtube/bitchute videos or .wav files for use as Actors voice**
+**Load audio files wav, mp3 etc for use as Actors voice**
 * **Main actors voice**
 * !Vox1+url
-* Working Example !Vox1+https://www.youtube.com/watch?v=ZXsQAXx_ao0
 * Working Example !Vox1+https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/Vox1ForTwitch.wav
 * **Buddys voice (youtube/bitchute links or .wav)**
 * !Vox2+url
-* Working Example !Vox2+https://www.youtube.com/watch?v=ZXsQAXx_ao0
 * Working Example !Vox2+https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/Vox2ForTwitch.wav
-* **Background music (youtube/bitchute links or .wav)**
+* **Background music ( .wav, .mp3, etc)**
 * !Bgm+url
-* Working Example !Bgm+https://www.youtube.com/watch?v=ZXsQAXx_ao0
 * Working Example !Bgm+https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/BgmForTwitch.wav
 
 **Load .png, .jpg, .jpeg (only works in scenes that uses images)** <br />
