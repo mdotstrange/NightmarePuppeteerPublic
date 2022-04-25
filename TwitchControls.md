@@ -1,5 +1,15 @@
 # Twitch Controls <br /><br />
 
+**Speak this dialogue-actor1 or actor2** <br />
+* !Tlk1+text <br />
+* !Tlk2+text <br />
+* Working Example !Tlk1+Hello Nightmare World!
+* Working Example !Tlk2+Hello Nightmare World!
+
+**Speak this dialogue-youtuber** <br />
+* !YTlk+text <br />
+* Working Example !Ylk+I am a virtual nightmare youtuber
+
 **Load audio files wav, mp3 etc for use as Actors voice**
 * **Main actors voice**
 * !Vox1+url
@@ -20,11 +30,6 @@
 * !Img2+url <br />
 * Working Example !Img1+https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/MadeWithNP_0.png
 * Working Example !Img2+https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/MadeWithNP1.png
-
-**Speak this dialogue** <br />
-* !Tlk1+text <br />
-* !Tlk2+text <br />
-* Working Example !Tlk1+Hello Nightmare World!
 
 **Load text (only works in scenes where text overlay is present)** <br />
 * !Txt1+text <br />
