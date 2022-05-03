@@ -23,6 +23,7 @@
 
 
 * **Here are the available variables you can use**
+* **They ARE case sensitive so use the same capitalization as they are shown here**
  ```
     Noun,
     Verb,
@@ -61,6 +62,6 @@
     Beverage,
     TvShow,
     Vehicle,
-    ```
+    
     
 * Just put brackets around them like in the example text like so [Noun]
