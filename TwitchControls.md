@@ -5,10 +5,25 @@
 * !Tlk2+text <br />
 * Working Example !Tlk1+Hello Nightmare World!
 * Working Example !Tlk2+Hello Nightmare World!
+* NP user must enable this in Twitch Settings Menu for it to work
 
 **Speak this dialogue-youtuber** <br />
 * !YTlk+text <br />
 * Working Example !Ylk+I am a virtual nightmare youtuber
+* NP user must enable this in Twitch Settings Menu for it to work
+
+**To submit text to Maard Laaarb mode** <br />
+* #NumberText <br />
+* On screen it says [Noun]35
+* You would type #35Duck
+* "Duck" would be stored into the Maard Laard
+* The first person to type in the number + a word gets it in the Maaard Laarb
+* Maard Laaard mode is the only twitch feature that uses # instead of !
+* NP user must enable this in Twitch Settings Menu for it to work
+
+**To start another Maaard Laaarb after one finishes** <br />
+* !UMad <br />
+* NP user must enable this in Twitch Settings Menu for it to work
 
 **Load audio files wav, mp3 etc for use as Actors voice**
 * **Main actors voice**
