@@ -16,6 +16,8 @@ If you find any bugs/errors or have feature requests please post them in [Issues
 
 Here are Nightmare Puppeteers Twitch chat [commands](https://github.com/mdotstrange/NightmarePuppeteerPublic/blob/master/TwitchControls.md)
 
+Learn now to make your own MAAARB LAARBS [here](https://github.com/mdotstrange/NightmarePuppeteerPublic/blob/master/MaarbLaaarbInfo.md)
+
 Get Nightmare Puppeteer on [Steam](https://store.steampowered.com/app/1355310/Nightmare_Puppeteer/)
 
 Nightmare Puppeteer [Online Press Kit](https://nightmarepuppeteer.carrd.co/)
