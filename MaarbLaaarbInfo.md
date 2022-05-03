@@ -1,3 +1,4 @@
+![](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/SLAVO-export.png)
 * **Maaard Laarbs are like “Mad libs” but we don’t get sued for Maaaarb Laaarbs**
 * To allow your Twitch viewers to play with them enable twitch mode and tick the box that says Maaarb Laaarbs
 * See the [Twitch Controls](https://github.com/mdotstrange/NightmarePuppeteerPublic/blob/master/TwitchControls.md) for the Maard Laarb commands
