@@ -4,7 +4,7 @@
 
 Here are Nightmare Puppeteers [controls](https://github.com/mdotstrange/NightmarePuppeteerPublic/blob/master/SceneControls.md)
 
-Here is Nightmare Puppeteers [User Manual](https://github.com/mdotstrange/NightmarePuppeteerPublic/releases/download/manual/NightmarePuppeteerUserManual.pdf)
+Here is Nightmare Puppeteers [User Manual](https://github.com/mdotstrange/NightmarePuppeteerPublic/releases/download/manual/NPManual.pdf)
 
 If you find any bugs/errors or have feature requests please post them in [Issues](https://github.com/mdotstrange/NightmarePuppeteerPublic/issues)
 
