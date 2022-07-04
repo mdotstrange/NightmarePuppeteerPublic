@@ -1,5 +1,14 @@
-**If you want to make your own dialogue text templates to be used in NP here is the syntax reference**
+**If you do things wrong when editing/adding new wordlists/templates you could crash NP.
+If you fuck everything up, unzip the AiWordList and/or AiConversationTemplates and allow them to overwrite**
 
+**Editing word lists**
+
+* The files are located in StreamingAssets/AiWordLists
+* Do not leave any blank lines in the file, they must me .txt files
+* Use Notepad++ for the easier workflow
+
+**If you want to make your own dialogue text templates to be used in NP here is the syntax reference**
+* **They are located in the file at StreamingAssets/AiWordLists/DialogueTemplates.txt**
 
 * [n] **noun** - examples: airplane, sirship, airport
 * [v] **verb** - examples: dive, paddle, muzzle
@@ -30,7 +39,9 @@
 * [avc], [avc], [pn] [qg] [v]ing[!]
 
 
-**When writing a dialogue between 2 actors you need to use 2 separate text files like so**
+**When writing a dialogue between 2 actors you need to use 2 separate text files**
+* Look at the files in StreamingAssets/AiConversationTemplates to see how they are used
+* Your files must start with with Actor1 or Actor2 
 * ![](https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/dia2.png)
 
 **When writing a dialogue to be between 2 actors and not just random lines there are some special variables to use**
@@ -47,6 +58,7 @@
 * As soon as Actor1 used a new [n*] like in line 4 that will create a new one to be used
 
 * **Here are those two text files you can use as examples**
+* Check the existing files to see how things are done
 * You can write yours to be as many lines as you'd like
 *  [Actor1 file](https://raw.githubusercontent.com/mdotstrange/NightmarePuppeteerPublic/master/Files/Actor1_Stalker.txt)
 *  [Actor2 file](https://raw.githubusercontent.com/mdotstrange/NightmarePuppeteerPublic/master/Files/Actor2_Stalker.txt)
