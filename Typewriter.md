@@ -112,4 +112,6 @@
 - 32 Random upper animation actor1
 - 33 Random upper animation actor2
 - --
+- If you're editing the "TypewriterData" file without moving from the NP prefs folder just save it and it will be used next time you launch NP
+- If you want to load in an external "TypewriterData" use the "Load typewriter data from your PC" button on the right side of the menu to load it in
 - *The "TypewriterData" file needs to be a .txt file
