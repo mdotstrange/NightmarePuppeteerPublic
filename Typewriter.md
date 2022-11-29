@@ -1,3 +1,5 @@
+ ![](https://i.imgur.com/AXcXsgy.png)
+- - --
 - If you want to manually edit Typewriter data files here's how to do it
 - Click the "Open location of Typewriter data" button on the Typewriter menu
 - Open the "TypewriterData" file
