@@ -1,7 +1,7 @@
 - If you want to manually edit Typewriter data files here's how to do it
 - Click the "Open location of Typewriter data" button on the Typewriter menu
 - Open the "TypewriterData" file
-
+- --
 - Example file contents
 
 ```
@@ -64,7 +64,17 @@
 }
 ```
 - Edit the dialogues lines and/or add new ones
-- 
+- --
+- To edit the autoFace settings just use true or false
+- --
+-Here's the actor voice codes
+- 0 Normie man
+- 1 Normie woman
+- 2 Robot man
+- 3 Robot woman
+- 4 Robot man whisper
+- 5 Robot woman whisper
+- --
 - Here's the Action code numbers to use Actions
 - 1 Camera cut
 - 2 Camera to actor1 face
@@ -99,3 +109,5 @@
 - 31 Random lower animation actor2
 - 32 Random upper animation actor1
 - 33 Random upper animation actor2
+- --
+- *The "TypewriterData" file needs to be a .txt file
