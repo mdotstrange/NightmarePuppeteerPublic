@@ -28,6 +28,7 @@ If you fuck everything up, unzip the AiWordList and/or AiConversationTemplates a
 * [!] **random punctuation** - examples: !, ? , .
 * [time] **times** - examples: forever, a minute, a long time ago
 * [ship] **ship names** - examples: Adonia, Athena, Arosa star
+* [prop] **prop name** - the name of a random prop spawned into the scene
 
 **Create a text file where each line is a new line of dialog, Notepad++ recommended**
 
