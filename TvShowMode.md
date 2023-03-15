@@ -47,4 +47,5 @@
 * **You can edit the files in these folders to mod the existing shows**
 * ![](https://github.com/mdotstrange/NightmarePuppeteerPublic/blob/master/Files/MODDD1.png)
 * --------------------
+* More user customizations coming soon including the ability to create your own "shows"
 * [See this link for more info on dialogue template editing](https://github.com/mdotstrange/NightmarePuppeteerPublic/blob/master/DialogueTemplates.md)
