@@ -1,10 +1,21 @@
+* **Random show mode info**
+* Show mode randomizes most things so after you run it check your scene options if you want to use NP normally
+* Show mode will randomly choose one of your scene flavor and fx presets each time it runs a show
+* Make sure the TwitchSafe option is checked in the scene options if you want to disable nudity and profanity
+* In shows with video, show mode will randomly play a Youtube video from the ShowYoutubeVids folder for that show
+* You can edit the show mode lineup by editing the TvModeShowLineup file(more info below)
+* In shows that play midi, show mode will randomly play a midi file from the ShowMidi folder for that show
+* You can replace/mod all the word lists and dialogue templates show mode uses for actor tts dialogue-[more info](https://github.com/mdotstrange/NightmarePuppeteerPublic/blob/master/DialogueTemplates.md)
+* Visit our [discord](https://discord.gg/KRrXChuR6p) for more info/to ask questions etc 
+
+
 **Show descriptions**
 
 * AdultSexualShow - 2 actors, no video, actors are connected by ik + adult situations
 * ArmazingProdukt - 2 actors, video, infomercial about randomly spawned object
 * AwerdsSher- 2 actors, video, awards speech acceptance
 * BangWarBoom - 2 actors, no video, combat scene with soldiers and explosions
-* BeztSongz - 2 actors, video, no dialogue, jamming to the music
+* BeztSongz - 2 actors, video, **no dialogue**, jamming to the music
 * CurToonz - 2 actors, video, random madness
 * DarkSided - 2 actors, no video, spooky stuff happens
 * DarkThoughts - 1 actor, no video, lone actor dark discussions
@@ -13,7 +24,7 @@
 * DerProphecy - 2 actors, no video, hitler speech
 * FactoryHAAA - 1 actor, no video, comedian on stage telling bad jokes
 * GregJoban - 2 actors, video, Joe Rogan podcast interview
-* HotMusicHump - 2 actors, video, no dialogue, hot bodies dancing
+* HotMusicHump - 2 actors, video, **no dialogue**, hot bodies dancing
 * NewsIsHappeened - 1 actor, video, newscaster giving the news
 * NewSpearatoolGuiderTalk - 2 actors, no video, spiritual talk
 * Preppaz - 2 actors, no video, doomsday preppers in bunker
