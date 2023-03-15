@@ -46,6 +46,9 @@
 * ![](https://github.com/mdotstrange/NightmarePuppeteerPublic/blob/master/Files/Names.png)
 * **You can edit the files in these folders to mod the existing shows**
 * ![](https://github.com/mdotstrange/NightmarePuppeteerPublic/blob/master/Files/MODDD1.png)
+* **If you drop zipped gltf files into a scenes prop folder they will be used as the randomly generated prop from the dialogue template var [prop]**
+* ![](https://github.com/mdotstrange/NightmarePuppeteerPublic/blob/master/Files/Props.png)
+* [Gltf 3d model loading more info here](https://www.youtube.com/watch?v=9z_3TQRgFXA)
 * --------------------
 * More user customizations coming soon including the ability to create your own "shows"
 * [See this link for more info on dialogue template editing](https://github.com/mdotstrange/NightmarePuppeteerPublic/blob/master/DialogueTemplates.md)
