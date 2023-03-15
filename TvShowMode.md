@@ -1,3 +1,7 @@
+* **TO ACTIVATE SHOW MODE**
+* Open the NP Console by pressing Shift + Esc
+* Then start typing TvShowModeToggle- select/write that command and run it
+-------------------------
 * **Random show mode info**
 * Show mode randomizes most things so after you run it check your scene options if you want to use NP normally
 * Show mode will randomly choose one of your scene flavor and fx presets each time it runs a show
