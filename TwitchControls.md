@@ -63,6 +63,9 @@
 * !Mid+url
 * Working Example !Mid+https://github.com/mdotstrange/NightmarePuppeteerPublic/raw/master/Files/BallTongue.mid
 
+**Stop Midi .mid file**
+* !MStop
+
 **Stop voice** <br />
 * !VStop <br /><br />
 
