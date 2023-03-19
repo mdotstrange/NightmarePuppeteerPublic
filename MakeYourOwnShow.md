@@ -3,6 +3,9 @@
 * **STEPS**
 * Click [here](https://docs.google.com/spreadsheets/d/1Rrt15rgAWReQ0xaWDD5kmbijzlIkEgZBz9tI-4tfU6o/copy) then click copy and fill out the google sheet, then **download it as .csv** (google account required)
 *   * You should be able to add multiple shows at once, just add them as additional rows
+*   * The shows names are found in the "SceneNames" text file in StreamingAssets
+*     * Copy/paste them exactly as they are- the names you want to use are the ones on the right side
+*       * Example with Funny Haha is StandupComedy - you want StandupComedy
 * [Download this example show data file](https://github.com/mdotstrange/NightmarePuppeteerPublic/releases/tag/ExampleShowFiles)
 *   * Replace the supplied .csv with your csv file
 *   * Replace the appropriate media in the subfolders with your own
