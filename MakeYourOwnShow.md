@@ -10,3 +10,11 @@
 * Go into the Other Setting menu in Nightmare Puppeteer (accesible from start screen)
 * Click the button under "Add a new Tv Mode Show" and select the "MyNewShows" folder that contains your csv file etc
 * Your show should be created and saved/loaded every time you run Nightmare Puppeteer
+---------------------------------
+* **NOTES**
+* For heads and body names check the "AllBodies" and "AllHeads" folders in StreamingAssets
+*   * You can regenerate these by running the console command "PrintAllHeadsAndBodies"
+* For font names check StreamingAssets, when you run NP it will generate a text file there with your available usable fonts
+* The title and light colors use html Hex colors get hex color codes [here](https://htmlcolorcodes.com/) paste them with the #
+* For multiple items like Scenes, LightColors, HeadNames etc
+*   * Add muliples separated by a comma with no spaces between them like this item1,item2,item3
