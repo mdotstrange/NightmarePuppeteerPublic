@@ -6,7 +6,7 @@
 * [Download this example show data file](https://github.com/mdotstrange/NightmarePuppeteerPublic/releases/tag/ExampleShowFiles)
 *   * Replace the supplied .csv with your csv file
 *   * Replace the appropriate media in the subfolders with your own
-*   Edit the "TvModeShowLineup" text file found in StreamingAssets and add the exact "ShowName: you entered in the google sheet
+*   Edit the "TvModeShowLineup" text file found in StreamingAssets and add the exact "ShowName" that you entered in the google sheet
 * Go into the Other Setting menu in Nightmare Puppeteer (accesible from start screen)
 * Click the button under "Add a new Tv Mode Show" and select the "MyNewShows" folder that contains your csv file etc
 * Your show should be created and saved/loaded every time you run Nightmare Puppeteer
