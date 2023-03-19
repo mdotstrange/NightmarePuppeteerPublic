@@ -1,0 +1,4 @@
+ShowName,Scenes,HasDialogue,LongDialoguePauses,ShowTitleTemplate,TitleColor,TItleFontName,HasMidi,ModsLights,LightColors,OnlyOneActor,Actor1HeadsRequired,HeadNames1,Actor1BodiesRequired,BodyNames1,Actor2HeadsRequired,HeadNames2,Actor2BodiesRequired,BodyNames2,PumpUpMusic,Actor1Seated,Actor2Seated,TimeSpeed,SpawnRandomProp,AllowYoutuber,HeadBobDanceActive,Actor2Dances,MidiMadnessActive,PlayYoutubeVideos,YoutubeVideoLinks
+The Bad Men,"House On Fire,Tuurd Talk",TRUE,FALSE,The Bad Men that [v] [prop]'s,17FF00,Calibri,TRUE,TRUE,"a0e2eb,68ab7e,bfb980",FALSE,FALSE,,FALSE,,FALSE,,FALSE,,FALSE,FALSE,FALSE,1,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,https://www.youtube.com/watch?v=6HRbQkG3CZU
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://www.youtube.com/watch?v=sn5T3ITgwiI
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://www.youtube.com/watch?v=Vbr089Ca12A
